@@ -1,5 +1,6 @@
 > https://intelport.org/brand-kit
 
+
 Naming
 For the naming, it is not required to capitalize the first character—'intel port' and 'Intel Port' are both acceptable. However, spaces must be included; 'intel' and 'port' should always be separate. This spacing is a key part of our brand identity.
 
